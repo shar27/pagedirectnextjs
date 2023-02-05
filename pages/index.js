@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Redirecting to Home Decor Accessories 
+          Redirecting Home Decor Accessories 
         </h1>
 
       </main>
